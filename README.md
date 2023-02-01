@@ -6,7 +6,7 @@ e organização, senso apurado para resolução de problemas, alta capacidade pa
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabrielfarias" alt="gabrielfarias" /></a> </p>
 
-- 🔭 Atualmente estou trabalhando em [MeuApp](https://meuapp.dev) como empreendedor
+- 🔭 Atualmente estou trabalhando em [MeuApp](https://meuapp.dev)
 
 - 🌱 no momento estou aprendendo **Node, React e React Native**
 
