@@ -4,7 +4,7 @@ pequenas e médias empresas com soluções personalizadas em tecnologia a partir
 específicos para entendimento dos problemas dos clientes. Possuo perfil analítico, boa capacidade de planejamento
 e organização, senso apurado para resolução de problemas, alta capacidade para analisar e manipular dados</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabrielfarias&theme=onedark" alt="gabrielfarias" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabrielfarias" alt="gabrielfarias" /></a> </p>
 
 - 🔭 Atualmente estou trabalhando em [MeuApp](https://meuapp.dev)
 
