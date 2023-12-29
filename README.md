@@ -25,3 +25,5 @@ e organização, senso apurado para resolução de problemas, alta capacidade pa
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielfarias&show_icons=true&locale=en&layout=compact" alt="gabrielfarias" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielfarias&" alt="gabrielfarias" /></p>
+
+<p align-"center"> <img align="center src="https://profile.couter.glitch.me/gabrielfarias/cont.svg" /> </p>
